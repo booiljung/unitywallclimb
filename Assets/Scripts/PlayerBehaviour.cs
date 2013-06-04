@@ -105,7 +105,6 @@ public class PlayerBehaviour
 	// draw hand on unity3d scene
 	void OnDrawGizmos()
 	{
-		foreach (Transform hand in this.hand)
-        	Gizmos.DrawLine(hand.position, hand.position + hand.forward * this.handDistance);
-    }	
+        	Gizmos.DrawLine(this.hand.position, this.hand.position + this.hand.forward * this.handDistance);
+	}	
 }
