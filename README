@@ -1,3 +1,6 @@
-This short unity3d wall climbing demo written by Booil Ted Joung.
-If you have more question mail me via tedfromskyy@gmail.com
 
+This is a sample implementation of an algorithm by which a character climbs a wall. Implemented using a physics engine. Please refer to the video.
+
+[![Unity 3D wall climb example]
+(https://img.youtube.com/vi/Mm7soEeDI-Q/0.jpg)]
+(https://www.youtube.com/watch?v=Mm7soEeDI-Q)
